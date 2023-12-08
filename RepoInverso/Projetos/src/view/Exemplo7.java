@@ -36,7 +36,7 @@ public class Exemplo7 extends javax.swing.JFrame {
         jBtnCalcular = new javax.swing.JButton();
         jButton1 = new javax.swing.JButton();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jTxtValor.setText("Valor");
 
